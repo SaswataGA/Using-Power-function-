@@ -1,0 +1,2 @@
+# Using-Power-function-
+pow()
